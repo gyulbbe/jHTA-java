@@ -59,5 +59,7 @@ public class VarDemo2 {
 		System.out.println(c4);
 		System.out.println(c5);
 		System.out.println(c6);
+		
+		
 	}
 }
