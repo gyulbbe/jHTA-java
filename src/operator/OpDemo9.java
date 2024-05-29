@@ -26,6 +26,5 @@ public class OpDemo9 {
 		System.out.println(result4);
 		System.out.println(result5);
 		System.out.println(result6);
-		//
 	}
 }
