@@ -23,5 +23,4 @@ public class Demo3 {
 		System.out.println(sum);
 		System.out.println(average);
 	}
-
 }
